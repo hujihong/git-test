@@ -1,1 +1,1 @@
-package com.hujihong;public class Test {	/**	 * @param args	 */	public static void main(String[] args) {		// TODO Auto-generated method stub		System.out.println("dsdsd");	}}
+package com.hujihong;public class Test {	/**	 * @param args	 */	public static void main(String[] args) {		// TODO Auto-generated method stub		System.out.println("dsdsd");		System.out.println("kwgkkwgk");			}}
